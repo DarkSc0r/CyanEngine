@@ -21,7 +21,11 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Push and cloning
 
 git commit -m "first commit"
+
 git branch -M main
+
 git push -u origin main
+
 git remote add origin https://github.com/DarkSc0r/CyanEngine.git
+
 git push -u origin main
